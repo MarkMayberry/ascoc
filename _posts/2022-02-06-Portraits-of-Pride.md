@@ -1,7 +1,3 @@
-% Portraits of Pride
-
-% by Mark Mayberry
-
 # Portraits of Pride
 
 by Mark Mayberry

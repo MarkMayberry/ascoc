@@ -1,9 +1,3 @@
-% The Tears of Mary
-
-% by Mark Mayberry
-
-% Presented at the Adoue Street Church of Christ on 2/27/2022
-
 # The Tears of Mary
 
 by Mark Mayberry
