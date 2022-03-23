@@ -1,6 +1,3 @@
-% Growing through Giving
-% by Mark Mayberry
-
 # Growing through Giving
 
 By Mark Mayberry
