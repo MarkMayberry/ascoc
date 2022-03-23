@@ -1,6 +1,3 @@
-% Let Us Reason Together
-% by Mark Mayberry 3/20/2022
-
 # Let Us Reason Together
 
 By Mark Mayberry 3/20/2022

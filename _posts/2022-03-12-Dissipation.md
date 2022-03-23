@@ -1,6 +1,3 @@
-% Dissipation = Wastefulness
-% By Mark Mayberry 3/12/2022
-
 # Dissipation = Wastefulness
 
 By Mark Mayberry 3/12/2022
