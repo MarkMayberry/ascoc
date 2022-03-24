@@ -4,24 +4,34 @@ title: Leadership
 permalink: /leadership/
 ---
 
-This page provides information about Adoue Street congregation's leadership.
+# Elders
 
-## Elders
-
-### Darin Henry
+## Darin Henry
 
 ![Darin Henry](/assets/img/Henry-Darin.jpg)
 
-### Paul Linden
+## Paul Linden
 
 ![Paul Linden](/assets/img/Linden-Paul.jpg)
 
-### Mark Mayberry
+## Mark Mayberry
 
 ![Mark Mayberry](/assets/img/Mayberry-Mark.jpg)
 
-## Deacons
+# Deacons
 
-## Evangelist: Mark Mayberry
+## Craig Lawrence
+
+## Jake Locklear
+
+## Forrest Morris
+
+## John Partain
+
+## Larry Roskos
+
+## Bruce Turner
+
+# Evangelist: Mark Mayberry
 
 ![Mark Mayberry](/assets/img/Mayberry-Mark.jpg)
