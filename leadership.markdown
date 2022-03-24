@@ -10,8 +10,6 @@ This page provides information about Adoue Street congregation's leadership.
 
 ![Darin Henry](/assets/img/Henry-Darin.jpg)
 
-_assets/img/Henry-Darin.jpg
-
 ![Paul Linden](/assets/img/Linden-Paul.jpg)
 
 ![Mark Mayberry](/assets/img/Mayberry-Mark.jpg)
