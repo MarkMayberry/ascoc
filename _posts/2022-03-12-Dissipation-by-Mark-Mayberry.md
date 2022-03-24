@@ -1,8 +1,5 @@
 # Dissipation
 
-By Mark Mayberry
-3/12/2022
-
 ## Video
 
 <iframe src="https://player.vimeo.com/video/689528757?h=7bf6ada07d&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

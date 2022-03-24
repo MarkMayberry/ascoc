@@ -1,8 +1,5 @@
 # The Tears of Mary
 
-by Mark Mayberry
-2/27/2022
-
 ## Video
 
 <iframe src="https://player.vimeo.com/video/683501970?h=c3eb90097b&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

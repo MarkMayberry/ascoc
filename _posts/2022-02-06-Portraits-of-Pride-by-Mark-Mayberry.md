@@ -1,8 +1,5 @@
 # Portraits of Pride
 
-by Mark Mayberry
-2/6/2022
-
 ## Audio
 
 <figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-02-06-pm-MM-Portraits-of-Pride.mp3"></audio></figure>

@@ -1,8 +1,5 @@
 # Satan's Desire
 
-By Mark Mayberry
-2/6/2022
-
 ## Video
 
 <iframe src="https://player.vimeo.com/video/674624571?h=412ed72628&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

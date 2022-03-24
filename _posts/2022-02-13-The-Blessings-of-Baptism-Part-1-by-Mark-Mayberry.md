@@ -1,8 +1,5 @@
 # The Blessings of Baptism
 
-By Mark Mayberry
-2/13/2022
-
 ## Video
 
 <iframe src="https://player.vimeo.com/video/678521782?h=765eaaa36c&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

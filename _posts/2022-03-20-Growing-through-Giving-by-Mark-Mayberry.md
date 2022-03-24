@@ -1,8 +1,5 @@
 # Growing through Giving
 
-By Mark Mayberry
-3/20/2022
-
 ## Video
 
 <iframe src="https://player.vimeo.com/video/690730610?h=b1571a20c2&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

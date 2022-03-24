@@ -1,3 +1,5 @@
+# The Beatitudes: Keys to a Growing Faith
+
 ## Video
 
 <iframe src="https://player.vimeo.com/video/672018952?h=28afdbfdf0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -5,10 +7,6 @@
 ## Audio
 
 <figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-01-30-am-MM-The-Beatitudes-Keys-to-a-Growing-Faith.mp3"></audio></figure>
-
-# The Beatitudes: Keys to a Growing Faith
-
-by Mark Mayberry
 
 ## Introduction
 

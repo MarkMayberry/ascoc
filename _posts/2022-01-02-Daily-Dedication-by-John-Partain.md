@@ -1,4 +1,6 @@
-2022-01-02 Daily Dedication by John Partain
+# Daily Dedication
+
+by John Partain
 
 ## Video
 
