@@ -3,6 +3,14 @@
 by Mark Mayberry
 2/27/2022
 
+## Video
+
+<iframe src="https://player.vimeo.com/video/683501970?h=c3eb90097b&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-02-27-am-MM-The-Tears-of-Mary.mp3"></audio></figure>
+
 ## Introduction
 
 David often spoke of his tears because of frustrations with others (Ps. 6:6-7) or himself (Ps. 39:12-13).

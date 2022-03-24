@@ -3,6 +3,14 @@
 by Mark Mayberry
 2/28/2022
 
+## Video
+
+<iframe src="https://player.vimeo.com/video/683511693?h=8dd26d9367&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-02-27-pm-MM-He-Did-Not-Leave-Himself-without-Witness.mp3"></audio></figure>
+
 ## Introduction
 
 What is a witness?

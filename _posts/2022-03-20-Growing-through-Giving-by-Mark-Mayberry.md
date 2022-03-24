@@ -3,6 +3,14 @@
 By Mark Mayberry
 3/20/2022
 
+## Video
+
+<iframe src="https://player.vimeo.com/video/690730610?h=b1571a20c2&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-03-20-am-MM-Growing-through-Giving.mp3"></audio></figure>
+
 ## Introduction
 
 In his closing comments to the Ephesian elders, Paul quoted a familiar saying of Jesus that is not preserved in the gospels: "It is more blessed to give than to receive" (Acts 20:32-35, esp. v. 35).
@@ -80,11 +88,3 @@ Preparedly: ". . .so that no collections be made when I come."
 Prudently: "When I arrive, whomever you may approve, I will send them with letters to carry your gift to Jerusalem. . ."
 
 > Now concerning the collection for the saints, as I directed the churches of Galatia, so do you also. On the first day of every week, each one of you is to put aside and save, as he may prosper, so that no collections be made when I come. When I arrive, whomever you may approve, I will send them with letters to carry your gift to Jerusalem; and if it is fitting for me to go also, they will go with me (1 Cor. 16:1–4).
-
-## Video
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/690730610?h=b1571a20c2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-## Audio
-
-<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-03-20-am-MM-Growing-through-Giving.mp3"></audio></figure>

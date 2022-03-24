@@ -1,6 +1,15 @@
 # Let Us Reason Together
 
-By Mark Mayberry 3/20/2022
+By Mark Mayberry
+3/20/2022
+
+## Video
+
+<iframe src="https://player.vimeo.com/video/690740119?h=fb1f761502&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-03-20-pm-MM-Come-Let-Us-Reason-Together.mp3"></audio></figure>
 
 ## Introduction
 
@@ -111,11 +120,3 @@ Brannan, Rick, ed. *Lexham Research Lexicon of the Greek New Testament. Lexham R
 Swanson, James *Dictionary of Biblical Languages with Semantic Domains: Greek New Testament.* Oak Harbor: Logos Research Systems, Inc., 1997.
 
 Thomas, Robert L. *New American Standard Hebrew-Aramaic and Greek Dictionaries: Updated Edition.* Anaheim: Foundation Publications, Inc., 1998.
-
-## Video
-
-<iframe src="https://player.vimeo.com/video/690740119?h=fb1f761502&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-## Audio
-
-<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-03-20-pm-MM-Come-Let-Us-Reason-Together.mp3"></audio></figure>

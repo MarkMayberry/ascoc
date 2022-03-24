@@ -3,6 +3,14 @@
 By Mark Mayberry
 2/6/2022
 
+## Video
+
+<iframe src="https://player.vimeo.com/video/674624571?h=412ed72628&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-02-06-am-MM-Satans-Desire.mp3"></audio></figure>
+
 ## Introduction
 
 Some (mistakenly) believe that the devil can control individuals--destroying man's free will, and dominating his actions.

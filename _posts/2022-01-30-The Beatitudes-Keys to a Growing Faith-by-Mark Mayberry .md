@@ -1,24 +1,10 @@
-% The Beatitudes: Keys to a Growing Faith
-% Mark Mayberry
-% 2022-01-29
+## Video
 
----
-title:
-- type: main
-  text: The Beatitudes: Keys to a Growing Faith
-- type: subtitle
-  text: A Study of Matthew 5:1-12
-creator:
-- role: author
-  text: Mark Mayberry
-- role: editor
-  text: Mark Mayberry
-identifier:
-- scheme: DOI
-  text: doi:10.234234.234/33
-publisher:  Privately Published
-rights: © 2022, by Mark Mayberry, CC BY-NC
-. . .
+<iframe src="https://player.vimeo.com/video/672018952?h=28afdbfdf0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Audio
+
+<figure class="wp-block-audio"><audio controls src="https://markmayberry.net/wp-content/uploads/bible-study/2022-01-30-am-MM-The-Beatitudes-Keys-to-a-Growing-Faith.mp3"></audio></figure>
 
 # The Beatitudes: Keys to a Growing Faith
 
@@ -159,4 +145,3 @@ Each of us should diligently determine to grow (2 Pet. 1:5-11). Are you diligent
 Adams, Connie. "Keys to Growth."  Shepherdsville, KY: Hebron Lane church of Christ, 12/26/2021. Note: I adapted this lesson from a sermon that Connie Adams presented at Hebron Lane church of Christ in Shepherdsville, KY on 12/26/2021.
 
 Arndt, William, et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature.* Chicago: University of Chicago Press, 2000.
-
