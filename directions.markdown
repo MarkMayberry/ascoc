@@ -4,7 +4,7 @@ title: Directions
 permalink: /directions/
 ---
 
-This page provides direction to our building.
+# Directions
 
 ## Street Address
 
