@@ -17,3 +17,5 @@ This page provides information about Adoue Street congregation's leadership.
 ## Deacons
 
 ## Evangelist
+
+![Mark Mayberry](/assets/Mayberry-Mark.jpg)
