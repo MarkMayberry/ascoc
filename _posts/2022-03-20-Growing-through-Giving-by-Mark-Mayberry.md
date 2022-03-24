@@ -80,3 +80,7 @@ Preparedly: ". . .so that no collections be made when I come."
 Prudently: "When I arrive, whomever you may approve, I will send them with letters to carry your gift to Jerusalem. . ."
 
 > Now concerning the collection for the saints, as I directed the churches of Galatia, so do you also. On the first day of every week, each one of you is to put aside and save, as he may prosper, so that no collections be made when I come. When I arrive, whomever you may approve, I will send them with letters to carry your gift to Jerusalem; and if it is fitting for me to go also, they will go with me (1 Cor. 16:1–4).
+
+## Video
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/690730610?h=b1571a20c2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
