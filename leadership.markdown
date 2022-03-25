@@ -4,34 +4,34 @@ title: Leadership
 permalink: /leadership/
 ---
 
-## Elders
+# Elders
 
-### Darin Henry
+## Darin Henry
 
 ![Darin Henry](/assets/img/Henry-Darin.jpg)
 
-### Paul Linden
+## Paul Linden
 
 ![Paul Linden](/assets/img/Linden-Paul.jpg)
 
-### Mark Mayberry
+## Mark Mayberry
 
 ![Mark Mayberry](/assets/img/Mayberry-Mark.jpg)
 
-## Deacons
+# Deacons
 
-### Craig Lawrence
+## Craig Lawrence
 
-### Jake Locklear
+## Jake Locklear
 
-### Forrest Morris
+## Forrest Morris
 
-### John Partain
+## John Partain
 
-### Larry Roskos
+## Larry Roskos
 
-### Bruce Turner
+## Bruce Turner
 
-## Evangelist: Mark Mayberry
+# Evangelist: Mark Mayberry
 
 ![Mark Mayberry](/assets/img/Mayberry-Mark.jpg)
