@@ -1,7 +1,3 @@
-% Father Abraham
-% By Mark Mayberry
-% 2022-04-03
-
 # Father Abraham
 
 by Mark Mayberry

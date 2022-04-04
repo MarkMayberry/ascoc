@@ -1,6 +1,3 @@
-% Duty and Delegation
-% By Mark Mayberry 2022-04-03
-
 # Duty and Delegation
 
 By Mark Mayberry
