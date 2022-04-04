@@ -5,13 +5,9 @@ By Mark Mayberry
 
 ## Introduction
 
-## Introduction
-
 The term "duty" refers to "a moral or legal obligation; a responsibility."
 
-The verb "delegate" means to "(1) entrust (a task or responsibility) to another person, typically one who is less senior than oneself; (2) the act or process of delegating or being delegated.""
-
-The noun "delegate" refers to "a person sent or authorized to represent others, in particular an elected representative sent to a conference."
+The term "delegate" means to "(1) entrust (a task or responsibility) to another person, typically one who is less senior than oneself; (2) the act or process of delegating or being delegated" (Oxford Dictionary).
 
 In our various relationships, each of us must our individual/personal duties---to God, Jesus Christ, and the Holy Spirit, to our family, brethren, neighbors, and also in the economic and political realms.
 
