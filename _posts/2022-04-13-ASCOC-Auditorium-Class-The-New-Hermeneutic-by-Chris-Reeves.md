@@ -1,18 +1,15 @@
-% Calling for a New Hermeneutic
-
-% By Chris Reeves
-
 # Calling for a New Hermeneutic
 
 By Chris Reeves
+Presented by Mark Mayberry in the ASCOC Auditorium Class beginning 2022-04-13
 
-# Introduction
+## Introduction
 
 *The Concise Oxford English Dictionary* defines *hermeneutic* as an adjective "concerning interpretation, especially of the Bible or literary texts." The English word comes from the Greek *hermēneutikos*, which is derived from the verb *hermēneuein*, meaning "to interpret."
 
 Change agents in the church say we need a new hermeneutic. In other words, they say we need a new approach to interpreting Scripture that does not focus upon the need for Bible authority. However, the question arises, if we set aside the old hermeneutic, with its emphasis on command, examples and inferences, how then will we interpret the Word of God, and make application of the same?
 
-# "We Need to Focus on God"
+## "We Need to Focus on God"
 
 Some say we need a greater focus on God, Christ and the Holy Spirit. Start with God, Christ and the Holy Spirit. Preach piety, not a pattern; commend Christ, not the church; spotlight the Spirit, not the letter of the law. However, we cannot know God apart from divine revelation (Ps. 19:1-11; 1 Cor. 2:6-16). Furthermore, if we love God, we will keep his commandments (Deut. 11:1, 13-15, 22-28; John 14:15, 21-24; 15:10).
 
@@ -32,7 +29,7 @@ Some say we need a greater focus on God, Christ and the Holy Spirit. Start with 
 
 > John 15:10 ... 10 "If you keep My commandments, you will abide in My love; just as I have kept My Father's commandments and abide in His love (NASB).
 
-# "We Need to View Scripture as Narrative and Story"
+## "We Need to View Scripture as Narrative and Story"
 
 Some say we need to view Scripture as narrative and story. According to Michael Casey, "The church is a story-formed community or a community of character that lives by the story of Christ and the early church. That story has been given to all Christians to live by." However, this approach is strikingly similar to Wellhausen's Documentary Hypothesis of the Pentateuch (J.E.D.P.). Stripped of its divine authority, Scripture becomes as inconsequential as a tale that is told (cf. Ps. 90:9-10), closely akin to Shakespeare's description of life's vanity:
 
@@ -58,7 +55,7 @@ Nevertheless, Luke provided a precise historical accounting of the life of Chris
 
 > 2 Peter 1:12-18 ... 12 Therefore, I will always be ready to remind you of these things, even though you already know them, and have been established in the truth which is present with you. 13 I consider it right, as long as I am in this earthly dwelling, to stir you up by way of reminder, 14 knowing that the laying aside of my earthly dwelling is imminent, as also our Lord Jesus Christ has made clear to me. 15 And I will also be diligent that at any time after my departure you will be able to call these things to mind. 16 For we did not follow cleverly devised tales when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty. 17 For when He received honor and glory from God the Father, such an utterance as this was made to Him by the Majestic Glory, "This is My beloved Son with whom I am well-pleased"— 18 and we ourselves heard this utterance made from heaven when we were with Him on the holy mountain (NASB).
 
-# "We Need to Read the Bible like Jesus"
+## "We Need to Read the Bible like Jesus"
 
 Some say we need to read the Bible like Jesus. Gary Collier said, "So, not only is Jesus the authoritative interpreter for the church, his church is to follow his lead! … Jesus draws us to interpret the instructions of God in the brighter light of the desires of God's heart: justice, mercy, faith, righteousness, love… See Scripture as reflecting the heart of God rather than a book for its own sake… Seek to establish as authoritative what is central to the desire of God's heart."
 
@@ -98,7 +95,7 @@ Those who discount the old hermeneutic by saying, "We need to read the Scripture
 
 > Mark 12:24-27 ... 24 Jesus said to them, "Is this not the reason you are mistaken, that you do not understand the Scriptures or the power of God? 25 "For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. 26 "But regarding the fact that the dead rise again, have you not read in the book of Moses, in the passage about the burning bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? 27 "He is not the God of the dead, but of the living; you are greatly mistaken." (NASB).
 
-# Conclusion
+## Conclusion
 
 God has always rewarded obedience (Deut. 4:1-2; John 8:51) and punished disobedience (Matt. 7:21-23; Gal. 1:6-9).
 
@@ -120,8 +117,11 @@ Acknowledging the authority of Christ (Matt. 28:18-20; Col. 3:17), let us abide 
 
 > 1 Peter 4:11 ... 11 Whoever speaks, is to do so as one who is speaking the utterances of God; whoever serves is to do so as one who is serving by the strength which God supplies; so that in all things God may be glorified through Jesus Christ, to whom belongs the glory and dominion forever and ever. Amen (NASB).
 
-Note: This lesson is an adaptation of the second section of Chris Reeves' booklet *"Out With The Old, In With The New,"* which is published by Truth Bookstore and available online at 
+## Source
+
+This lesson is an adaptation of the second section of Chris Reeves' booklet *"Out With The Old, In With The New,"* which is published by Truth Bookstore and available online at 
 [CEI Bookstore / Truth Publications](https://truthbooks.com/reeves-nh)
 
+## Summary
 
-The Cry of the New Hermeneutic. Hermeneutics is the practice of interpreting the Scriptures. Recently, some brethren have been calling for a new way to practice Bible interpretation. They claim that our present practice of Bible interpretation is based upon the faulty ideas of the Restoration Movement, but now it is time for a New Hermeneutic. According to them, we need to get rid of the old hermeneutic of commands, examples and inferences, and practice a New Hermeneutic. This book argues that we do not need a New Hermeneutic. The only hermeneutic we need today is the one practiced by Jesus, the Apostles and New Testament evangelists. Part One of this book discusses certain practices that New Hermeneutic brethren want to abandon, and the Bible defense of such practices. Part Two of this book reviews some of the New Hermeneutic proposals offered by some brethren, and a Bible critique of such proposals. 49 pages.
+The Cry of the New Hermeneutic: Hermeneutics is the practice of interpreting the Scriptures. Recently, some brethren have been calling for a new way to practice Bible interpretation. They claim that our present practice of Bible interpretation is based upon the faulty ideas of the Restoration Movement, but now it is time for a New Hermeneutic. According to them, we need to get rid of the old hermeneutic of commands, examples and inferences, and practice a New Hermeneutic. This book argues that we do not need a New Hermeneutic. The only hermeneutic we need today is the one practiced by Jesus, the Apostles and New Testament evangelists. Part One of this book discusses certain practices that New Hermeneutic brethren want to abandon, and the Bible defense of such practices. Part Two of this book reviews some of the New Hermeneutic proposals offered by some brethren, and a Bible critique of such proposals. 49 pages.
