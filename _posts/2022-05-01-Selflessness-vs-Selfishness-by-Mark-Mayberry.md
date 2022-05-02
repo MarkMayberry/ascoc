@@ -3,9 +3,8 @@
 
 # Selflessness vs. Selfishness
 
-By Mark Mayberry @ ASCOC.ORG on 5/1/2022
-
-By Mark Mayberry & John Partain in ASCOC Young Men's Class on 4/7/2021
+By Mark Mayberry
+5/1/2022 10:30 a.m. @ ASCOC.ORG
 
 ## Introduction
 
