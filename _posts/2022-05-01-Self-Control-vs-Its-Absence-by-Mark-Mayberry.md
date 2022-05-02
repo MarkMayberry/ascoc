@@ -15,15 +15,7 @@ BDAG say it refers to the "restraint of one's emotions, impulses, or desires, se
 
 ## Acts 24:24–27
 
-But some days later Felix arrived with Drusilla, his wife who was a Jewess, and sent for Paul and heard him speak about faith in Christ Jesus. 
-
-But as he was discussing righteousness, self-control and the judgment to come, Felix became frightened and said, "Go away for the present, and when I find time I will summon you." 
-
-## Acts 24:24–27
-
-At the same time too, he was hoping that money would be given him by Paul; therefore he also used to send for him quite often and converse with him. 
-
-But after two years had passed, Felix was succeeded by Porcius Festus, and wishing to do the Jews a favor, Felix left Paul imprisoned.
+> But some days later Felix arrived with Drusilla, his wife who was a Jewess, and sent for Paul and heard him speak about faith in Christ Jesus. But as he was discussing righteousness, self-control and the judgment to come, Felix became frightened and said, "Go away for the present, and when I find time I will summon you." At the same time too, he was hoping that money would be given him by Paul; therefore he also used to send for him quite often and converse with him. But after two years had passed, Felix was succeeded by Porcius Festus, and wishing to do the Jews a favor, Felix left Paul imprisoned.
 
 ## Felix: A Case Study in Failure
 
