@@ -1,13 +1,3 @@
-% Local Church Membership
-% Mark Mayberry
-
----
-Title: Local Church Membership
-Author: Mark Mayberry
-Date: 2022-04-26
-Place: ASCOC a.m. Worship
-. . . 
-
 # Local Church Membership
 
 by Mark Mayberry
