@@ -1,6 +1,3 @@
-% Selflessness vs. Selfishness
-% By Mark Mayberry 
-
 # Selflessness vs. Selfishness
 
 By Mark Mayberry
