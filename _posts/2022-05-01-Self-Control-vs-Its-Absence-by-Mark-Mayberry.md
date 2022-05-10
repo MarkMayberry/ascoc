@@ -1,6 +1,3 @@
-% Self-Control vs. Its Absence
-% by Mark Mayberry
-
 # Self-Control vs. Its Absence
 
 by Mark Mayberry
