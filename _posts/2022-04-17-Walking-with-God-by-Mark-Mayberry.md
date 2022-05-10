@@ -1,6 +1,3 @@
-% Walking with God
-% by Mark Mayberry
-
 # Walking with God
 
 by Mark Mayberry
