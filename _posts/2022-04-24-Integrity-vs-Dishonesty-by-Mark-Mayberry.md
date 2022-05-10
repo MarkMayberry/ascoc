@@ -1,7 +1,7 @@
 # Integrity vs Dishonesty
 
 By Mark Mayberry
-4/24/2022 5:00 pm @ ASCOC.ORG
+4/24/2022
 
 ## Introduction
 
