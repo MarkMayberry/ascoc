@@ -1,6 +1,3 @@
-% Dangers of Denominationalism
-% By Mark Mayberry
-
 # Dangers of Denominationalism
 
 By Mark Mayberry
