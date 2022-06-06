@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &ldquo;Give Us A King!&rdquo;
+title: Give Us a King!
 date: 2012-04-15 10:00
 author: MarkMayberry
 comments: true
