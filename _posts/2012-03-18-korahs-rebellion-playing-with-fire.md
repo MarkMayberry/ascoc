@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Korah's Rebellion---Playing With Fire
-date: 2012-03-18 17:00
+title: Korah's Rebellion-Playing with Fire
+date: 2012-03-18
 author: MarkMayberry
 comments: true
 categories: [Korah, Leadership, Priesthood, Rebellion]
