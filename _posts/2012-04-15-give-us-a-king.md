@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Give Us a King!
-date: 2012-04-15 10:00
+date: 2012-04-15
 author: MarkMayberry
 comments: true
 categories: [Authority, Obedience, Old Testament Examples, Rebellion]
