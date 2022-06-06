@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the Beginning: Sin – Part 1
+title: In the Beginning Sin – Part 1
 date: 2014-02-09
 author: MarkMayberry
 comments: true
