@@ -1,9 +1,0 @@
----
-layout: post
-title: What Do You Say When Confronted by the Truth?
-date: 2012-01-15 18:00
-author: MarkMayberry
-comments: true
-categories: [Christianity, Disobedience, Obedience, Truth]
----
-<h3><b>By Mark Mayberry     <br />1/15/2012</b></h3>  <h4>Introduction</h4>  <p>What do you say when confronted by the truth? It is important that we respond to the gospel message with the hearing of faith (Rom. 10:12-17). Note the repeated admonitions of Sacred Scripture: “He who has ears to hear, let him hear” (Matt. 11:15; Mark 4:9; Luke 8:8; 14:35). “He who has ears, let him hear” (Matt. 13:9, 43). “If anyone has an ear, let him hear” (Rev. 13:9). “If anyone has ears to hear, let him hear” (Mark 4:23). “He who has an ear, let him hear what the Spirit says to the churches” (Rev. 2:7, 11, 17, 29; 3:6, 13; 22). </p>  <h4>Some Evidence a Spirit of Obedience</h4>  <p>After hearing Peter’s sermon on the day of Pentecost, three thousand men demonstrated a spirit of obedience (Acts 2:32-42).</p>  <h4>Some Evidence a Spirit of Defiance</h4>  <p>After hearing Stephen’s sermon before the Jewish Council, the audience demonstrated a spirit of defiance (Acts 7:51-60).</p>  <h4>Some Evidence a Spirit of Eagerness</h4>  <p>After hearing Philip’s sermon on the prophecy of Isaiah, the Ethiopian nobleman demonstrated a spirit of eagerness (Acts 8:26-40).</p>  <h4>Some Evidence a Spirit of Apathy</h4>  <p>After hearing Paul’s sermon on personal accountability, Felix the Governor demonstrated a spirit of apathy (Acts 24:24-27).</p>  <h4>Conclusion</h4>  <p>What do you say when confronted by the truth? Do you evidence a spirit of obedience, a spirit of defiance, a spirit of eagerness, or a spirit of apathy? Scriptural emphasis for action is always on the present moment: “Now is the acceptable time.” Lest we receive the grace of God in vain, we must view today as the day of salvation (2 Cor. 6:1-2; Heb. 3:5-11; 4:1-7). </p>
