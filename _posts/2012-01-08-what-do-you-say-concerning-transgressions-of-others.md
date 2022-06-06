@@ -1,0 +1,9 @@
+---
+layout: post
+title: What Do You Say Concerning Transgressions of Others?
+date: 2012-01-08 18:00
+author: MarkMayberry
+comments: true
+categories: [Christianity, Fellowship, Sin, Transgression]
+---
+<h3><b>By Mark Mayberry     <br />1/8/2012</b></h3>  <h4>Introduction</h4>  <p>Character, consistency and personal purity are prerequisites if we are to effectively help others with their trials and temptations, sins and shortcomings (Psa. 51:10-13; Matt. 7:1-5).</p>  <h4>Relevant Admonitions</h4>  <p>The Law of Moses offered sound advice on helping others in times of spiritual need (Lev. 19:17; Psa. 141:5; Prov. 9:7-12; 19:25; 25:12; 27:5-6).</p>  <p>The Gospel of Christ contains similar exhortations on helping a brother who has fallen into sin (Matt. 18:15-17; Luke 17:1-4; Gal. 6:1-5; Eph. 5:11-14; 1 Tim. 5:19-21; James 5:19-20).</p>  <h4>Relevant Examples</h4>  <p>King David responded positively to the rebuke of Nathan the prophet (2 Sam. 12:7-15). King Asa was unreceptive to the criticism of Hanani the Seer (1 Kings 15:8-15; 2 Chron. 16:7-10). The apostle Peter rebuked Simon the Magician, who sought to purchase the gift of God (Acts 8:9-24). The apostle Paul denounced Elymas because he sought to turn Sergius Paulus, the proconsul, away from the faith (Acts 13:4-12). Leading Apollos to a fuller understanding of the truth, Aquila and Pricilla pursued a gentler approach, taking him aside and explaining to him the way of God more accurately (Acts 18:24-28). Paul publically rebuked Peter, when he acted hypocritically and unbrotherly toward Gentile disciples (Gal. 2:11-14).</p>  <h4>Conclusion</h4>  <p>Cultivating the qualities of love, let us seek the highest good of our brethren – reproving, rebuking and exhorting them with patience and Biblical instruction (1 Cor. 13:4-7; 2 Tim. 4:1-5; 1 Pet. 4:7-11; Rev. 3:19-22).</p>
