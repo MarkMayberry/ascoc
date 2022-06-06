@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Servants, Ministers &amp; Deacons
+title: Servants, Ministers, and Deacons
 date: 2011-08-21 17:00
 author: MarkMayberry
 comments: true
