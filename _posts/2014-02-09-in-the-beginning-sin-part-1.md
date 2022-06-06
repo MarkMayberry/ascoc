@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the Beginning: Sin – Part 1
-date: 2014-02-09 11:00
+date: 2014-02-09
 author: MarkMayberry
 comments: true
 categories: [In the Beginning, Video, Sin]
