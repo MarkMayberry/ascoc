@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Korah&rsquo;s Rebellion: Playing With Fire
+title: Korah's Rebellion---Playing With Fire
 date: 2012-03-18 17:00
 author: MarkMayberry
 comments: true
